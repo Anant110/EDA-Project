@@ -1,6 +1,6 @@
 # EDA-Project
 About the Data
-Dataset contain the sales data of different products in India.This data has been taken from the Kaggle dataset. Dataset contain informations regarding the age, state, product, occupation, marital_status, amount of purchase, product_id, customer name and Number of orders per userId.
+Dataset contain informations regarding the age, state, product, occupation, marital_status, amount of purchase, product_id, customer name and Number of orders per userId.
 
 This analysis will be a exploratory data analysis and we will try to figure out some important insights from the data in order to make a data driven decision.
 
